@@ -1,0 +1,23 @@
+{
+  "name": "study-ts",
+  "version": "1.0.0",
+  "description": "keep on track about the udemy course of typescrit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chroda/study-ts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chroda/study-ts/issues"
+  },
+  "homepage": "https://github.com/chroda/study-ts#readme",
+  "devDependencies": {
+    "http-server": "^0.11.1",
+    "typescript": "^3.2.2"
+  }
+}
