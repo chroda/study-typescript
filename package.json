@@ -1,7 +1,7 @@
 {
-  "name": "study-ts",
+  "name": "study-typescript",
   "version": "1.0.0",
-  "description": "keep on track about the udemy course of typescrit",
+  "description": "studies about typescrit",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -18,6 +18,6 @@
   "homepage": "https://github.com/chroda/study-ts#readme",
   "devDependencies": {
     "http-server": "^0.11.1",
-    "typescript": "^3.2.2"
+    "typescript": "^5.1.3"
   }
 }
