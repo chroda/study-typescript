@@ -1,6 +1,6 @@
 // ==> Vars
-let person: string = "John Doe";
-console.log(person);
+let aperson: string = "John Doe";
+console.log(aperson);
 
 // ==> Arrays
 let animals: string[] = ["cat", "dog", "bird"];
@@ -42,4 +42,6 @@ console.log(num2);
 console.log(num3);
 console.log(num4);
 
-// let bitint: bigint = 100n;
+let bitint: bigint =
+  0b1110101010101010010101001000001011010110101010110101010101010001n;
+console.log(bitint);
