@@ -10,3 +10,5 @@
 ## Zero-to-Hero
 
 - [Zero-to-Hero Youtube link](https://www.youtube.com/watch?v=u7K1sdnCv5Y&list=PLb2HQ45KP0Wsk-p_0c6ImqBAEFEY-LU9H)
+
+- [Build JavaScript applications using TypeScript](https://learn.microsoft.com/en-us/training/paths/build-javascript-applications-typescript)
